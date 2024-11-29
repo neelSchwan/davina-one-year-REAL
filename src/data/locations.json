@@ -6,8 +6,8 @@
         "title": "Our first OFFICIAL date! 11-29-2023",
         "description": "The place where I first asked you out",
         "images": [
-            "/images/IMG_8177.jpg",
-            "/images/IMG_8084.jpg"
+            "images/IMG_8177.jpg",
+            "images/IMG_8084.jpg"
         ]
     },
     {
@@ -16,7 +16,7 @@
         "longitude": -71.06242500049464,
         "title": "TREE LIGHTING 11-30-2023",
         "description": "Boston commons christmas tree lighting the day after!!",
-        "images": ["/images/IMG_8084.jpg"]
+        "images": ["images/DSC07594.JPG"]
     },
     {
         "id": 3,
@@ -24,15 +24,21 @@
         "longitude": -71.06533658944433,
         "title": "Our last date before london 12-7-2023",
         "description": "the SoWa winter market where we ate yummy yummy crepes",
-        "images": ["/images/IMG_8084.jpg"]
+        "images": [
+            "images/IMG_8196.jpg",
+            "images/IMG_8199.jpg"
+        ]
     },
     {
         "id": 4,
         "latitude": 51.517869025560614,
         "longitude": -0.0766403697505037,
         "title": "LONDON! 1-11-2024",
-        "description": "I think this picture is from the Onitsuka Tiger store but I'm not sure",
-        "images": ["/images/IMG_8084.jpg"]
+        "description": "SOME MEMORABLE PICTURES FROM SPITALFIELDS :D ",
+        "images": [
+            "images/DSC00846.JPG",
+            "images/IMG_8558.JPG"
+        ]
     },
     {
         "id": 5,
@@ -40,15 +46,18 @@
         "longitude": -0.20498823853054057,
         "title": "PORTOBELLO ROAD MARKET 1-13-2024",
         "description": "first time visiting portobello with you, should've gotten the ring :(",
-        "images": ["/images/IMG_8084.jpg"]
+        "images": [
+            "images/IMG_8513.JPG",
+            "images/IMG_E8531.jpg"
+        ]
     },
     {
         "id": 6,
-        "latitude": 51.51587179741889,
-        "longitude": -0.20498823853054057,
+        "latitude": 51.50761251056902,
+        "longitude": -0.09930941329884012,
         "title": "THE TATE MODERN 2-11-2024",
         "description": "HAMBURGER",
-        "images": ["/images/IMG_8084.jpg"]
+        "images": ["images/IMG_8580.JPG"]
     },
     {
         "id": 7,
@@ -56,7 +65,91 @@
         "longitude": -0.08164136403776984,
         "title": "Padella Shoreditch 3-1-2024",
         "description": "TO CELEBRATE OUR 3 MONTHS!!!",
-        "images": ["/images/IMG_8084.jpg"]
+        "images": ["images/IMG_8619.JPG"]
+    },
+    {
+        "id": 7,
+        "latitude": 51.521765477072215,
+        "longitude": -0.07158064378025672,
+        "title": "ART OF THE BRICK 3-11-2024",
+        "description": "FUNNY ASS LEGO PICTURES",
+        "images": [
+            "images/IMG_8644.JPG",
+            "images/IMG_8643.JPG",
+            "images/IMG_8647.JPG"
+        ]
+    },
+    {
+        "id": 8,
+        "latitude": 51.511853295296966,
+        "longitude": -0.130882777087199,
+        "title": "LONDON CHINATOWN 3-17-2024",
+        "description": "WHAT IS PIKACHU DOING HERE??",
+        "images": [
+            "images/IMG_8656.JPG",
+            "images/IMG_8684.JPG"
+        ]
+    },
+    {
+        "id": 9,
+        "latitude": 41.369229767963,
+        "longitude": 2.1530676293875217,
+        "title": "BARCELONA DAY 1 3-25-2024",
+        "description": "BEST SPRING BREAK LOCATION WWWWWW",
+        "images": [
+            "images/IMG_8705.JPG",
+            "images/IMG_8718.JPG",
+            "images/IMG_8815.JPG",
+            "images/IMG_8820.JPG"
+        ]
+    },
+    {
+        "id": 10,
+        "latitude": 41.404602181139914,
+        "longitude": 2.1757343786664536,
+        "title": "BARCELONA DAY 2 3-26-2024",
+        "description": "I LOVE THESE PICTURES ALSO LOOK AT THE PIGEON",
+        "images": [
+            "images/IMG_8923.JPG",
+            "images/IMG_8935.JPG",
+            "images/IMG_9031.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "latitude": 41.41932102213463,
+        "longitude": 2.1619314071072897,
+        "title": "BARCELONA DAY 3 3-27-2024",
+        "description": "THE BUNKER VIEWS + BAGUETTE!!!",
+        "images": [
+            "images/IMG_8989.JPG",
+            "images/IMG_9022.JPG",
+            "images/IMG_9175.JPG"
+        ]
+    },
+    {
+        "id": 12,
+        "latitude": 45.46419560663021,
+        "longitude": 9.190050191192519,
+        "title": "TIRAMISU TOUR IN MILAN 3-29-2024",
+        "description": "SO MUCH YUMMY TIRAMISU AND CELEBRATING OUR 4 MONTHS!!",
+        "images": [
+            "images/IMG_9301.JPG",
+            "images/IMG_9303.JPG",
+            "images/IMG_9309.JPG",
+            "images/IMG_9310.JPG"
+        ]
+    },
+    {
+        "id": 13,
+        "latitude": 45.97929612878087,
+        "longitude": 9.261390613798305,
+        "title": "LAKE COMO 3-30-2024",
+        "description": "IT WAS SO FOGGY BUT STILL LOOKED BEAUTIFUL",
+        "images": [
+            "images/IMG_9608 - Copy.JPG",
+            "images/IMG_9614 - Copy.JPG"
+        ]
     }
 ]
 

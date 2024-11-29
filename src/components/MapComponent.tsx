@@ -1,4 +1,3 @@
-import React from "react";
 import { MapContainer, Marker, Polyline, Popup, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import locations from "../data/locations.json";
@@ -9,16 +8,18 @@ function MapComponent() {
     console.log("Sorted Locations:", sortedLocations);
 
     // Extract polyline positions from the sorted locations
-    const polylineSegments: LatLngExpression[][] = sortedLocations.map((currentLocation, index, array) => {
-        if (index < array.length - 1) {
-            const nextLocation = array[index + 1];
-            return [
-                [currentLocation.latitude, currentLocation.longitude],
-                [nextLocation.latitude, nextLocation.longitude],
-            ];
-        }
-        return null; // Return null for the last location
-    }).filter(segment => segment !== null);
+    const polylineSegments: LatLngExpression[][] = sortedLocations
+        .map((currentLocation, index, array) => {
+            if (index < array.length - 1) {
+                const nextLocation = array[index + 1];
+                return [
+                    [currentLocation.latitude, currentLocation.longitude] as LatLngExpression,
+                    [nextLocation.latitude, nextLocation.longitude] as LatLngExpression,
+                ];
+            }
+            return null;
+        })
+        .filter((segment): segment is LatLngExpression[] => segment !== null);
 
     console.log(polylineSegments);
     return (

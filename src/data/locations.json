@@ -68,7 +68,7 @@
         "images": ["images/IMG_8619.JPG"]
     },
     {
-        "id": 7,
+        "id": 8,
         "latitude": 51.521765477072215,
         "longitude": -0.07158064378025672,
         "title": "ART OF THE BRICK 3-11-2024",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "latitude": 51.511853295296966,
         "longitude": -0.130882777087199,
         "title": "LONDON CHINATOWN 3-17-2024",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "latitude": 41.369229767963,
         "longitude": 2.1530676293875217,
         "title": "BARCELONA DAY 1 3-25-2024",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "latitude": 41.404602181139914,
         "longitude": 2.1757343786664536,
         "title": "BARCELONA DAY 2 3-26-2024",
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "latitude": 41.41932102213463,
         "longitude": 2.1619314071072897,
         "title": "BARCELONA DAY 3 3-27-2024",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 13,
         "latitude": 45.46419560663021,
         "longitude": 9.190050191192519,
         "title": "TIRAMISU TOUR IN MILAN 3-29-2024",
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "latitude": 45.97929612878087,
         "longitude": 9.261390613798305,
         "title": "LAKE COMO 3-30-2024",
@@ -149,6 +149,126 @@
         "images": [
             "images/IMG_9608 - Copy.JPG",
             "images/IMG_9614 - Copy.JPG"
+        ]
+    },
+    {
+        "id": 15,
+        "latitude": 47.14911425875149,
+        "longitude": 9.140906958934915,
+        "title": "AMDEN SWITZERLAND 3-31-2024",
+        "description": "SUCH A PRETTY PLACE IM SO SAD I DONT HAVE MORE PICTURES",
+        "images": [
+            "images/IMG_0726.JPG",
+            "images/IMG_5251.JPG"
+        ]
+    },
+    {
+        "id": 16,
+        "latitude": 52.35987339708371,
+        "longitude": 4.884615827363044,
+        "title": "AMSTERDAM 4-4-2024",
+        "description": "I HAVE NO PICTURES THEY ALL GOT DELETED :(",
+        "images": [
+            ""
+        ]
+    },
+    {
+        "id": 17,
+        "latitude": 59.90897000603103,
+        "longitude": 10.746332864011473,
+        "title": "OSLO 4-13-2024",
+        "description": "NO PICTURES FOR OSLO EITHER BUT FOR SOME REASON THEY HAD REALLY GOOD INDIAN FOOD",
+        "images": [
+            ""
+        ]
+    },
+    {
+        "id": 18,
+        "latitude": 43.740263005447225,
+        "longitude": 7.429881656132381,
+        "title": "MONACO 4-20-2024",
+        "description": "MY FAVORITE PLACE WE WENT W TRIP W WEATHER",
+        "images": [
+            "images/MONACO_IMAGE.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "latitude": 43.69407587188687,
+        "longitude": 7.25889264281175,
+        "title": "NICE 4-20-2024",
+        "description": "NICE :D",
+        "images": [
+            "images/NICE_IMAGE.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "latitude": 40.435008747962705,
+        "longitude": -80.01090725568943,
+        "title": "PITTSBURGH 5-30-2024 (6 MONTHS!!)",
+        "description": "THIS WAS THE NEXT TIME WE SAW EACH OTHER AFTER LONDON, BUT MY PICTURES GOT DELETED :((",
+        "images": [
+            ""
+        ]
+    },
+    {
+        "id": 21,
+        "latitude": 42.337606529708694,
+        "longitude": -71.07553877130012,
+        "title": "BOSTON 9-2-2024",
+        "description": "I FINALLY GOT TO SEE YOU AGAIN AFTER SUMMER",
+        "images": [
+            "images/BOS_IMG1.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "latitude": 42.86110229371563,
+        "longitude": -72.10829812708423,
+        "title": "MT MONADNOCK 10-19-2024",
+        "description": "HIKING :D",
+        "images": [
+            "images/IMG_0271(1).jpg",
+            "images/IMG_0752.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "latitude": 42.364747224968646,
+        "longitude": -71.05338244617627,
+        "title": "DATE DAY 10-20-2024",
+        "description": "I LOVED THIS DAY, ESPECIALLY THE GLUTTONOUS SQUIRREL",
+        "images": [
+            "images/IMG_0779(1).jpg",
+            "images/IMG_0768.jpg",
+            "images/IMG_0792.jpg",
+            "images/IMG_0801.jpg",
+            "images/IMG_0417(1).jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "latitude": 42.33776425067125,
+        "longitude": -71.09559364491061,
+        "title": "HALLOWEEKEND 10-31-2024",
+        "description": "THESE PICTURES ARE SO PEAK I LOVE THEM A LOT",
+        "images": [
+            "images/IMG_0483.JPG",
+            "images/IMG_0504.JPG"
+        ]
+    },
+    {
+        "id": 25,
+        "latitude": 42.35568681145887,
+        "longitude": -71.06144730569882,
+        "title": "ONE YEAR DINNER 11-29-2024",
+        "description": "I love you <3",
+        "images": [
+            "images/IMG_0871.jpg",
+            "images/IMG_0705(1).jpg",
+            "images/IMG_0865.jpg",
+            "images/IMG_0866.jpg"
         ]
     }
 ]
